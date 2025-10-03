@@ -1,4 +1,9 @@
 package com.example.serie;
 
-public class SerieGUI {
+import javax.swing.*;
+import java.awt.*;
+public class SerieGUI extends JFrame {
+
+    private JTextArea textArea;
+
 }
